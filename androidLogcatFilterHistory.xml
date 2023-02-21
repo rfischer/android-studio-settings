@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="ANR" />
+    <option name="nonFavorites">
+      <list>
+        <option value="ANR" />
+        <option value="updateAllDoctors" />
+        <option value="ldn't load services" />
+        <option value="Calcul" />
+        <option value="Cal" />
+        <option value="-&gt; isCoupled" />
+        <option value="coupling state" />
+        <option value="FragmentExt." />
+        <option value="startUpdateViewInternal" />
+        <option value="refi" />
+        <option value="TS=" />
+        <option value="REFI -" />
+        <option value="profile" />
+        <option value="Error" />
+        <option value="vacc" />
+        <option value="impfpas" />
+        <option value="de.zoll" />
+        <option value="Error adding immunizat" />
+        <option value="de.zollsoft.impfapp" />
+        <option value="[REMINDER]" />
+      </list>
+    </option>
+  </component>
+</application>
