@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ANR" />
+    <option name="mostRecentlyUsed" value="impfpassde" />
     <option name="nonFavorites">
       <list>
+        <option value="impfpassde" />
         <option value="ANR" />
         <option value="updateAllDoctors" />
         <option value="ldn't load services" />
@@ -22,7 +23,6 @@
         <option value="de.zoll" />
         <option value="Error adding immunizat" />
         <option value="de.zollsoft.impfapp" />
-        <option value="[REMINDER]" />
       </list>
     </option>
   </component>
