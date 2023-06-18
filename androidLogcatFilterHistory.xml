@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="refi" />
+    <option name="mostRecentlyUsed" value="catalo" />
     <option name="nonFavorites">
       <list>
+        <option value="catalo" />
         <option value="refi" />
         <option value="impfpassde" />
         <option value="ANR" />
@@ -22,7 +23,6 @@
         <option value="impfpas" />
         <option value="de.zoll" />
         <option value="Error adding immunizat" />
-        <option value="de.zollsoft.impfapp" />
       </list>
     </option>
   </component>
